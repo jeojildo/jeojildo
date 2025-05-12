@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeojildo
+**- 👋 Hi, I’m @jeojildo**
 - 👀 I’m interested in web programming and data science
 - 🌱 I’m currently learning computer science in PPGCC UFPA
 - 📫 How to reach me pjeojildo@gmail.com or jeojildo.pereira@icen.ufpa.br
