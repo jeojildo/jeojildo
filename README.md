@@ -19,8 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
-<b>SQL</b>
+<img src="https://img.shields.io/badge/Structured%20Query%20Language-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
