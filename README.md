@@ -27,25 +27,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo"/>
   
 <a href="https://www.python.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"//>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
   
-<a href="https://www.php.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<a href="https://www.javascript.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
   
-<a href="https://www.php.net" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/>
+<a href="https://www.mysql.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50" alt="MySQL Logo"/>
   
-<a href="https://www.php.net" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" height="50"/>
+<a href="https://www.mariadb.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" height="50" alt="MariaDB Logo"/>
   
-<a href="https://www.php.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
   
-<a href="https://www.php.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  
-<a href="https://www.php.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<a href="https://www.getbootstrap.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap Logo"/>
 </a>
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>-->
 
