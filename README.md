@@ -6,9 +6,6 @@
 - 📫 How to reach me pjeojildo@gmail.com or jeojildo.pereira@icen.ufpa.br
 
 
-**Connect**
-<a href="https://sites.google.com/view/jeojildopereira/" target="_blank"> Jeojildo Website</a>
-
 **Operating System**
 <!-- Arch Linux -->
 <a href="https://www.archlinux.org" target="_blank">
