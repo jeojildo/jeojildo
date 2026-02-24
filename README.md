@@ -7,12 +7,12 @@
 
 
 **Connect**
-<a href="https://sites.google.com/view/jeojildopereira/" target="_blank"></a>
+<a href="https://sites.google.com/view/jeojildopereira/" target="_blank"> Jeojildo Website</a>
 
 **Operating System**
 <!-- Arch Linux -->
 <a href="https://www.archlinux.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40">
 </a>
 
 <!-- Ubuntu -->
