@@ -2,7 +2,7 @@
 
 **👋 Hi, I’m @Jeojildo**
 - 👀 I’m interested in web programming and data science
-- 🌱 I’m currently learning computer science in PPGCC/PPGCOMP UFPA
+<!--- 🌱 I’m currently learning computer science in PPGCC/PPGCOMP UFPA-->
 - 📫 How to reach me pjeojildo@gmail.com or jeojildo.pereira@icen.ufpa.br
 
 
