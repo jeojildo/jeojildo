@@ -9,13 +9,11 @@
 **Operating System**
 <!-- Arch Linux -->
 <a href="https://www.archlinux.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40">
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40"></a>
 
 <!-- Ubuntu -->
 <a href="https://ubuntu.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="45" alt="Ubuntu Logo"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="45" alt="Ubuntu Logo"/></a>
 
 
 **Programming, Database and Framework**
