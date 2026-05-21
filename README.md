@@ -22,24 +22,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java Logo"/>
   
 <a href="https://www.php.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo"/></a>
   
 <a href="https://www.python.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/></a>
   
 <a href="https://www.javascript.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/></a>
   
 <a href="https://www.mysql.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50" alt="MySQL Logo"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50" alt="MySQL Logo"/></a>
   
 <a href="https://www.mariadb.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" height="50" alt="MariaDB Logo"/>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" height="50" alt="MariaDB Logo"/></a>
   
   
 <a href="https://www.getbootstrap.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap Logo"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap Logo"/></a>
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>-->
 
 </p>
